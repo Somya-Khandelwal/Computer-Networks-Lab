@@ -6,7 +6,8 @@ A simple client-server application for banking system which can be used for chec
 
 * Clone the repository by typing the following command in the shell.
 ```shell
-git clone https://github.com/abhiyadav1323/banking.git
+git clone https://github.com/Somya-Khandelwal/Computer-Networks-Lab.git
+cd Banking System using Client-Server socket programming
 ```
 * Compile the server and client source files by following commands.
 ```shell
