@@ -38,7 +38,7 @@ The police can see the available balance of all customers. He is allowed to view
 #### Customer
 ```shell
 Enter the credentials.
-Username: 101
+Username: 1
 Password: prpcpf
 Welcome Bank_Customer.
 Do u want to continue (y/n): y
@@ -61,7 +61,7 @@ Do u want to continue (y/n): n
 #### Bank Admin
 ```shell
 Enter the credentials.
-Username: 111
+Username: 11
 Password: snavpa
 Welcome Bank_Admin.
 Do u want to continue (y/n): y
@@ -71,7 +71,7 @@ Amount: 50
 Transaction successful.
 
 Do u want to continue (y/n): y
-User ID of Customer: 102
+User ID of Customer: 2
 Transaction Type: debit
 Amount: 10
 Transaction successful.
@@ -82,17 +82,17 @@ Do u want to continue (y/n): n
 #### Police
 ```shell
 Enter the credentials.
-Username: 115
+Username: 15
 Password: xvdxbd
 Welcome Police.
 Do u want to continue (y/n): y
 Operation to perform: balance
-User ID of Customer: 101
+User ID of Customer: 1
 BALANCE: 3936.687012
 
 Do u want to continue (y/n): y
 Operation to perform: mini_statement
-User ID of Customer: 103
+User ID of Customer: 3
 MINI STATEMENT:
 02-12-2016 credit 5000
 14-03-2017 credit 5545.454102
